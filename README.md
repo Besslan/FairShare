@@ -119,9 +119,8 @@ then you need to copy the key of the CA from FairShare/network/crypto-config/pee
 
 
 ## Team
- - __Development Team Members__: 
-[Alaa Migdady](https://github.com/alaamigdady), 
-[Besslan Bzadough](https://github.com/Besslan), 
-[Bushra Alabsi](https://github.com/BushraAlabsi), 
-[Hanan Nouman](https://github.com/HananNouman), and 
-[Mohamad Alkhaldi](https://github.com/MohamadAlkhaldi)
+- [Alaa Migdady](https://github.com/alaamigdady)
+- [Besslan Bzadough](https://github.com/Besslan) 
+- [Bushra Alabsi](https://github.com/BushraAlabsi)
+- [Hanan Nouman](https://github.com/HananNouman)
+- [Mohamad Alkhaldi](https://github.com/MohamadAlkhaldi)
